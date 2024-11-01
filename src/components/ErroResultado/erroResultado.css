@@ -1,0 +1,9 @@
+.erro{
+  background-color: crimson;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+  width: 25%;
+  border-radius: 10px;
+  padding: 5px;
+}

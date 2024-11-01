@@ -1,0 +1,47 @@
+.formulario{
+  text-align: center;
+}
+
+.linha-formulario{
+  display: block;
+}
+
+form{
+  padding: 15px;
+  margin: auto;
+  margin-top: 20px;
+  width: 25%;
+  min-width: 200px;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid cornflowerblue;
+}
+
+label {
+  padding: 10px;
+  display: inline-block;
+}
+
+button{
+  margin: auto;
+  margin-top: 8px;
+  border: none;
+  background-color: cornflowerblue;
+  color: white;
+  border-radius: 5px;
+  padding: 6px;
+  display: block;
+}
+
+button:hover{
+  background-color: rgb(58, 106, 196);
+}
+
+input{
+  margin: auto;
+  margin-top: 3px;
+  border: 1px solid gainsboro;
+  border-radius: 3px;
+  display: inline-block;
+}
